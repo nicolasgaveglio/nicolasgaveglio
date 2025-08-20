@@ -5,7 +5,7 @@ With over a decade of experience in **tourism operations and client solutions**,
 
 
 ## 🔎 About Me  
-- 🌍 Over a decade in the **tourism industry**: logistics, operations, and product management.  
+- 🌍 Built expertise in **operations and client solutions**, now applying it to analytics. 
 - 📊 Currently building projects in **data analytics and visualization**.  
 - 🎓 Pursuing a **Master’s in Data Science** and participating in BI & Analytics bootcamps.  
 - 💡 Passionate about using analytics to solve business problems and enhance travel experiences.
